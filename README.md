@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 하고싶은것
 
-## Getting Started
+### 통합 자기관리 모바일 웹 앱 + 관련 커뮤니티
 
-First, run the development server:
+- 블로그, 일기
+- 자기관리 앱
+- 모바일 베이스
+- Auth
+- 커뮤니티
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# 다루는 것
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 캘린더 기능
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 하루 루틴
+- 주간 루틴
+- 월간 목표
+- 연간 목표
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### 자기관리
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- 문화 (영화, 드라마, 공연)
+- 운동
+- 독서
+- 음식
+- 여행
+- 패션
